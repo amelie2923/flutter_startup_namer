@@ -134,13 +134,13 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "flutter_application_1",
+      "name": "startup_namer",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2021-06-18T06:58:56.466295Z",
+  "generated": "2021-06-18T12:07:31.164847Z",
   "generator": "pub",
   "generatorVersion": "2.13.3"
 }
